@@ -16,8 +16,8 @@ You'll cover these topics in the course:
   <dt>Course Outline</dt>
   <dt>1 - Overview and Course Setup <i>(This section)</i></dt>
   <dt>2 - Programming Basics</dt>
-  <dt>3 Working with Data</dt>
-  <dt>4 Deployment and Environments</dt>
+  <dt>3 - Working with Data</dt>
+  <dt>4 - Deployment and Environments</dt>
 <dl>
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
